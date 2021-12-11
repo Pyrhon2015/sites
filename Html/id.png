@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Head>
+  <Version>71</Version>
+  <Building>
+    <UserInformation/>
+    <History>
+      <Scene>
+        <CurrentLevel>1</CurrentLevel>
+        <LevelSize>2</LevelSize>
+        <scene0>
+          <House>
+            <Center>-99999 -99999</Center>
+            <SizeX>8</SizeX>
+            <Alpha>1</Alpha>
+            <Texture2d>4294967295</Texture2d>
+            <Texture2dWidth>0</Texture2dWidth>
+            <Texture2dHeight>0</Texture2dHeight>
+            <WasLoadTexture2d>0</WasLoadTexture2d>
+            <WasSetTheCenter>119</WasSetTheCenter>
+            <AdditionalField/>
+            <Parents/>
+            <Children>
+              <N0>
+                <Group>0</Group>
+                <Id>0</Id>
+              </N0>
+            </Children>
+            <Aabb2d>
+              <Min>3.402823466e+38 3.402823466e+38</Min>
+              <Max>-3.402823466e+38 -3.402823466e+38</Max>
+            </Aabb2d>
+            <Angle>0</Angle>
+            <Scale>1 1</Scale>
+            <Pos>0 0 0</Pos>
+            <Visible>1</Visible>
+          </House>
+          <Levels>
+            <Container/>
+          </Levels>
+          <Rooms>
+            <Container/>
+          </Rooms>
+          <Roofs>
+            <Container/>
+          </Roofs>
+          <Walls>
+            <Container/>
+          </Walls>
+          <RoofWalls>
+            <Container/>
+          </RoofWalls>
+          <ArrayWallChildren>
+            <Container/>
+          </ArrayWallChildren>
+          <Objects>
+            <Container/>
+          </Objects>
+          <Stairs>
+            <Container/>
+          </Stairs>
+          <Holes>
+            <Container/>
+          </Holes>
+          <RoofHoles>
+            <Container/>
+          </RoofHoles>
+          <MovePoints>
+            <Container/>
+          </MovePoints>
+          <RoofPoints>
+            <Container/>
+          </RoofPoints>
+          <Texts>
+            <Container/>
+          </Texts>
+          <Doors>
+            <Container/>
+          </Doors>
+          <Windows>
+            <Container/>
+          </Windows>
+          <Camera3d>
+            <AngleZ>0</AngleZ>
+            <FirstUse>0</FirstUse>
+            <Matrix>-0 0 -1 0 1 0 -0 0 0 -1 -0 0 -2.5 -1.6 3.125 1</Matrix>
+            <FovY>90</FovY>
+            <Height>1.600000024</Height>
+            <Parents>
+              <N0>
+                <Group>20</Group>
+                <Id>0</Id>
+              </N0>
+            </Parents>
+            <Children/>
+            <Aabb2d>
+              <Min>3.402823466e+38 3.402823466e+38</Min>
+              <Max>-3.402823466e+38 -3.402823466e+38</Max>
+            </Aabb2d>
+            <Angle>90</Angle>
+            <Scale>1 1</Scale>
+            <Pos>3.125 2.5 0</Pos>
+            <Visible>0</Visible>
+          </Camera3d>
+          <Height>2.5</Height>
+          <Columnes>
+            <Container/>
+          </Columnes>
+          <CeilingThickness>0.25</CeilingThickness>
+          <PointLights>
+            <Container/>
+          </PointLights>
+          <SpotLights>
+            <Container/>
+          </SpotLights>
+        </scene0>
+        <scene1>
+          <House>
+            <Center>-99999 -99999</Center>
+            <SizeX>8</SizeX>
+            <Alpha>1</Alpha>
+            <Texture2d>4294967295</Texture2d>
+            <Texture2dWidth>0</Texture2dWidth>
+            <Texture2dHeight>0</Texture2dHeight>
+            <WasLoadTexture2d>0</WasLoadTexture2d>
+            <WasSetTheCenter>119</WasSetTheCenter>
+            <AdditionalField/>
+            <Parents/>
+            <Children>
+              <N0>
+                <Group>0</Group>
+                <Id>0</Id>
+              </N0>
+              <N1>
+                <Group>17</Group>
+                <Id>0</Id>
+              </N1>
+            </Children>
+            <Aabb2d>
+              <Min>3.402823466e+38 3.402823466e+38</Min>
+              <Max>-3.402823466e+38 -3.402823466e+38</Max>
+            </Aabb2d>
+            <Angle>0</Angle>
+            <Scale>1 1</Scale>
+            <Pos>0 0 0</Pos>
+            <Visible>1</Visible>
+          </House>
+          <Levels>
+            <Container/>
+          </Levels>
+          <Rooms>
+            <Container>
+              <FirstN0>0</FirstN0>
+              <SecondN0>
+                <WasCreated>1</WasCreated>
+                <RooName>Комната</RooName>
+                <Changed>0</Changed>
+                <Du>0.400000006</Du>
+                <Dv>0.400000006</Dv>
+                <DuCeiling>1.049999952</DuCeiling>
+                <DvCeiling>1.049999952</DvCeiling>
+                <DuIn>0.400000006</DuIn>
+                <DvIn>0.400000006</DvIn>
+                <DuOut>0.8000000119</DuOut>
+                <DvOut>0.8000000119</DvOut>
+                <MirroredTexcoordsIn>0</MirroredTexcoordsIn>
+                <MirroredTexcoordsOut>0</MirroredTexcoordsOut>
+                <AabbIn>
+                  <Min>0.075 0.075</Min>
+                  <Max>4.925 4.925</Max>
+                </AabbIn>
+                <Polyhedron>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>6</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>11</Id>
+                  </N1>
+                  <N2>
+                    <Group>2</Group>
+                    <Id>10</Id>
+                  </N2>
+                  <N3>
+                    <Group>2</Group>
+                    <Id>9</Id>
+                  </N3>
+                  <N4>
+                    <Group>2</Group>
+                    <Id>8</Id>
+                  </N4>
+                  <N5>
+                    <Group>2</Group>
+                    <Id>7</Id>
+                  </N5>
+                  <N6>
+                    <Group>2</Group>
+                    <Id>6</Id>
+                  </N6>
+                </Polyhedron>
+                <PolyhedronWall>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>11</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>10</Id>
+                  </N1>
+                  <N2>
+                    <Group>10</Group>
+                    <Id>9</Id>
+                  </N2>
+                  <N3>
+                    <Group>10</Group>
+                    <Id>8</Id>
+                  </N3>
+                  <N4>
+                    <Group>10</Group>
+                    <Id>7</Id>
+                  </N4>
+                  <N5>
+                    <Group>10</Group>
+                    <Id>6</Id>
+                  </N5>
+                </PolyhedronWall>
+                <NotPolyhedronWall/>
+                <WasLoadTexture>1</WasLoadTexture>
+                <RenderText>1</RenderText>
+                <TextName>17,27</TextName>
+                <FontName>Times New Roman</FontName>
+                <FontItalic>0</FontItalic>
+                <FontBold>0</FontBold>
+                <TextRes>
+                  <Min>-14.165 -4.308</Min>
+                  <Max>21.291 6.48</Max>
+                </TextRes>
+                <UseCeiling>1</UseCeiling>
+                <RenderPlinth>1</RenderPlinth>
+                <PlinthPath>Data\Textures\plinth.png</PlinthPath>
+                <PlinthScaleX>0.02500000037</PlinthScaleX>
+                <PlinthScaleY>0.0549999997</PlinthScaleY>
+                <DuPlinth>0.8000000119</DuPlinth>
+                <DvPlinth>0.8000000119</DvPlinth>
+                <RenderPlinthCeiling>1</RenderPlinthCeiling>
+                <PlinthCeilingPath>Data\Textures\plinth.png</PlinthCeilingPath>
+                <PlinthCeilingScaleX>0.02500000037</PlinthCeilingScaleX>
+                <PlinthCeilingScaleY>0.0549999997</PlinthCeilingScaleY>
+                <DuPlinthCeiling>0.8000000119</DuPlinthCeiling>
+                <DvPlinthCeiling>0.8000000119</DvPlinthCeiling>
+                <WasFinishCreated>0</WasFinishCreated>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <FloorMaterial>
+                  <TextureId>4</TextureId>
+                  <TexturePath>Data\Textures\floor.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </FloorMaterial>
+                <CeilingMaterial>
+                  <TextureId>3</TextureId>
+                  <TexturePath>Data\Textures\ceiling.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>0</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </CeilingMaterial>
+                <PlinthCeilingMaterial>
+                  <TextureId>4294967295</TextureId>
+                  <TexturePath/>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </PlinthCeilingMaterial>
+                <PlinthMaterial>
+                  <TextureId>2</TextureId>
+                  <TexturePath>Data\Textures\plinth_texture.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </PlinthMaterial>
+                <RotateFloor>0</RotateFloor>
+                <RooUserName/>
+                <Parents>
+                  <N0>
+                    <Group>20</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>11</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>10</Id>
+                  </N1>
+                  <N2>
+                    <Group>10</Group>
+                    <Id>9</Id>
+                  </N2>
+                  <N3>
+                    <Group>10</Group>
+                    <Id>8</Id>
+                  </N3>
+                  <N4>
+                    <Group>10</Group>
+                    <Id>7</Id>
+                  </N4>
+                  <N5>
+                    <Group>10</Group>
+                    <Id>6</Id>
+                  </N5>
+                  <N6>
+                    <Group>12</Group>
+                    <Id>1</Id>
+                  </N6>
+                  <N7>
+                    <Group>12</Group>
+                    <Id>2</Id>
+                  </N7>
+                  <N8>
+                    <Group>12</Group>
+                    <Id>3</Id>
+                  </N8>
+                  <N9>
+                    <Group>12</Group>
+                    <Id>4</Id>
+                  </N9>
+                  <N10>
+                    <Group>12</Group>
+                    <Id>5</Id>
+                  </N10>
+                </Children>
+                <Aabb2d>
+                  <Min>-0.075 -0.075</Min>
+                  <Max>5.075 5.075</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>0 0 0</Pos>
+                <Visible>1</Visible>
+              </SecondN0>
+            </Container>
+          </Rooms>
+          <Roofs>
+            <Container/>
+          </Roofs>
+          <Walls>
+            <Container>
+              <FirstN0>6</FirstN0>
+              <SecondN0>
+                <DoubledSecond>0</DoubledSecond>
+                <IsDoubled>0</IsDoubled>
+                <WallWidth>0.07500000298</WallWidth>
+                <WallHeight3d>2.5</WallHeight3d>
+                <Alpha>1 1 1 1 1 1 0 0 0 0 0 0 0 0</Alpha>
+                <Vertices>
+                  <N0>5 0</N0>
+                  <N1>4.925 0.075</N1>
+                  <N2>5.075 -0.075</N2>
+                  <N3>0 0</N3>
+                  <N4>0.075 0.075</N4>
+                  <N5>-0.075 -0.075</N5>
+                  <N6>0.001 0.001</N6>
+                  <N7>-0.001 -0.001</N7>
+                  <N8>4.999 0.001</N8>
+                  <N9>5.001 -0.001</N9>
+                  <N10>0.192 0.192</N10>
+                  <N11>-0.192 -0.192</N11>
+                  <N12>4.808 0.192</N12>
+                  <N13>5.192 -0.192</N13>
+                </Vertices>
+                <Tris>0 1 4 0 4 3 0 3 5 0 5 2</Tris>
+                <Quads>4 1 8 6 5 2 9 7 4 1 12 10 5 2 13 11</Quads>
+                <WasCreate>1</WasCreate>
+                <Color>0 0 0</Color>
+                <IsAllGood>1</IsAllGood>
+                <IsBrothers[0]>0</IsBrothers[0]>
+                <IsBrothers[1]>0</IsBrothers[1]>
+                <SelectedTime>0</SelectedTime>
+                <WallAabb1>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb1>
+                <WallAabb2>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb2>
+                <MaterialFroRooIn>1</MaterialFroRooIn>
+                <MaterialFroRooOut>1</MaterialFroRooOut>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <WallInDu>0.400000006</WallInDu>
+                <WallInDv>0.400000006</WallInDv>
+                <WallOutDu>0.8000000119</WallOutDu>
+                <WallOutDv>0.8000000119</WallOutDv>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>7</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>6</Id>
+                  </N1>
+                </Children>
+                <Aabb2d>
+                  <Min>-2.575 -0.075</Min>
+                  <Max>2.575 0.075</Max>
+                </Aabb2d>
+                <Angle>180</Angle>
+                <Scale>1 1</Scale>
+                <Pos>2.5 0 0</Pos>
+                <Visible>1</Visible>
+              </SecondN0>
+              <FirstN1>7</FirstN1>
+              <SecondN1>
+                <DoubledSecond>0</DoubledSecond>
+                <IsDoubled>0</IsDoubled>
+                <WallWidth>0.07500000298</WallWidth>
+                <WallHeight3d>2.5</WallHeight3d>
+                <Alpha>1 1 1 1 1 1 0 0 0 0 0 0 0 0</Alpha>
+                <Vertices>
+                  <N0>5 5</N0>
+                  <N1>4.925 4.925</N1>
+                  <N2>5.075 5.075</N2>
+                  <N3>5 0</N3>
+                  <N4>4.925 0.075</N4>
+                  <N5>5.075 -0.075</N5>
+                  <N6>4.999 0.001</N6>
+                  <N7>5.001 -0.001</N7>
+                  <N8>4.999 4.999</N8>
+                  <N9>5.001 5.001</N9>
+                  <N10>4.808 0.192</N10>
+                  <N11>5.192 -0.192</N11>
+                  <N12>4.808 4.808</N12>
+                  <N13>5.192 5.192</N13>
+                </Vertices>
+                <Tris>0 1 4 0 4 3 0 3 5 0 5 2</Tris>
+                <Quads>4 1 8 6 5 2 9 7 4 1 12 10 5 2 13 11</Quads>
+                <WasCreate>1</WasCreate>
+                <Color>0 0 0</Color>
+                <IsAllGood>1</IsAllGood>
+                <IsBrothers[0]>0</IsBrothers[0]>
+                <IsBrothers[1]>0</IsBrothers[1]>
+                <SelectedTime>0</SelectedTime>
+                <WallAabb1>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>0.478 0.5</Max>
+                  </N0>
+                  <N1>
+                    <Min>0 0.5</Min>
+                    <Max>0.478 1.9</Max>
+                  </N1>
+                  <N2>
+                    <Min>0 1.9</Min>
+                    <Max>0.478 2.5</Max>
+                  </N2>
+                  <N3>
+                    <Min>0.478 0</Min>
+                    <Max>0.606 0.5</Max>
+                  </N3>
+                  <N4>
+                    <Min>0.606 0</Min>
+                    <Max>1 0.5</Max>
+                  </N4>
+                  <N5>
+                    <Min>0.829 0.5</Min>
+                    <Max>1 1.9</Max>
+                  </N5>
+                  <N6>
+                    <Min>0.478 2.4</Min>
+                    <Max>0.606 2.5</Max>
+                  </N6>
+                  <N7>
+                    <Min>0.606 2.4</Min>
+                    <Max>0.829 2.5</Max>
+                  </N7>
+                  <N8>
+                    <Min>0.829 1.9</Min>
+                    <Max>1 2.4</Max>
+                  </N8>
+                  <N9>
+                    <Min>0.829 2.4</Min>
+                    <Max>1 2.5</Max>
+                  </N9>
+                </WallAabb1>
+                <WallAabb2>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>0.479 0.5</Max>
+                  </N0>
+                  <N1>
+                    <Min>0 0.5</Min>
+                    <Max>0.479 1.9</Max>
+                  </N1>
+                  <N2>
+                    <Min>0 1.9</Min>
+                    <Max>0.479 2.5</Max>
+                  </N2>
+                  <N3>
+                    <Min>0.479 0</Min>
+                    <Max>0.6 0.5</Max>
+                  </N3>
+                  <N4>
+                    <Min>0.6 0</Min>
+                    <Max>1 0.5</Max>
+                  </N4>
+                  <N5>
+                    <Min>0.809 0.5</Min>
+                    <Max>1 1.9</Max>
+                  </N5>
+                  <N6>
+                    <Min>0.479 2.4</Min>
+                    <Max>0.6 2.5</Max>
+                  </N6>
+                  <N7>
+                    <Min>0.6 2.4</Min>
+                    <Max>0.809 2.5</Max>
+                  </N7>
+                  <N8>
+                    <Min>0.809 1.9</Min>
+                    <Max>1 2.4</Max>
+                  </N8>
+                  <N9>
+                    <Min>0.809 2.4</Min>
+                    <Max>1 2.5</Max>
+                  </N9>
+                </WallAabb2>
+                <MaterialFroRooIn>1</MaterialFroRooIn>
+                <MaterialFroRooOut>1</MaterialFroRooOut>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <WallInDu>0.400000006</WallInDu>
+                <WallInDv>0.400000006</WallInDv>
+                <WallOutDu>0.8000000119</WallOutDu>
+                <WallOutDv>0.8000000119</WallOutDv>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>8</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>7</Id>
+                  </N1>
+                  <N2>
+                    <Group>9</Group>
+                    <Id>3</Id>
+                  </N2>
+                </Children>
+                <Aabb2d>
+                  <Min>-2.575 -0.075</Min>
+                  <Max>2.575 0.075</Max>
+                </Aabb2d>
+                <Angle>270</Angle>
+                <Scale>1 1</Scale>
+                <Pos>5 2.5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN1>
+              <FirstN2>8</FirstN2>
+              <SecondN2>
+                <DoubledSecond>0</DoubledSecond>
+                <IsDoubled>0</IsDoubled>
+                <WallWidth>0.07500000298</WallWidth>
+                <WallHeight3d>2.5</WallHeight3d>
+                <Alpha>1 1 1 1 1 1 0 0 0 0 0 0 0 0</Alpha>
+                <Vertices>
+                  <N0>2.5 5</N0>
+                  <N1>2.575 4.925</N1>
+                  <N2>2.425 5.075</N2>
+                  <N3>5 5</N3>
+                  <N4>4.925 4.925</N4>
+                  <N5>5.075 5.075</N5>
+                  <N6>4.999 4.999</N6>
+                  <N7>5.001 5.001</N7>
+                  <N8>2.501 4.999</N8>
+                  <N9>2.499 5.001</N9>
+                  <N10>4.808 4.808</N10>
+                  <N11>5.192 5.192</N11>
+                  <N12>2.692 4.808</N12>
+                  <N13>2.308 5.192</N13>
+                </Vertices>
+                <Tris>0 1 4 0 4 3 0 3 5 0 5 2</Tris>
+                <Quads>4 1 8 6 5 2 9 7 4 1 12 10 5 2 13 11</Quads>
+                <WasCreate>1</WasCreate>
+                <Color>0 0 0</Color>
+                <IsAllGood>1</IsAllGood>
+                <IsBrothers[0]>0</IsBrothers[0]>
+                <IsBrothers[1]>0</IsBrothers[1]>
+                <SelectedTime>0</SelectedTime>
+                <WallAabb1>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>0.348 2</Max>
+                  </N0>
+                  <N1>
+                    <Min>0 2</Min>
+                    <Max>0.348 2.5</Max>
+                  </N1>
+                  <N2>
+                    <Min>0.348 2</Min>
+                    <Max>0.773 2.5</Max>
+                  </N2>
+                  <N3>
+                    <Min>0.773 0</Min>
+                    <Max>1 2</Max>
+                  </N3>
+                  <N4>
+                    <Min>0.773 2</Min>
+                    <Max>1 2.5</Max>
+                  </N4>
+                </WallAabb1>
+                <WallAabb2>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>0.365 2</Max>
+                  </N0>
+                  <N1>
+                    <Min>0 2</Min>
+                    <Max>0.365 2.5</Max>
+                  </N1>
+                  <N2>
+                    <Min>0.365 2</Min>
+                    <Max>0.742 2.5</Max>
+                  </N2>
+                  <N3>
+                    <Min>0.742 0</Min>
+                    <Max>1 2</Max>
+                  </N3>
+                  <N4>
+                    <Min>0.742 2</Min>
+                    <Max>1 2.5</Max>
+                  </N4>
+                </WallAabb2>
+                <MaterialFroRooIn>1</MaterialFroRooIn>
+                <MaterialFroRooOut>1</MaterialFroRooOut>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <WallInDu>0.400000006</WallInDu>
+                <WallInDv>0.400000006</WallInDv>
+                <WallOutDu>0.8000000119</WallOutDu>
+                <WallOutDv>0.8000000119</WallOutDv>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>9</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>8</Id>
+                  </N1>
+                  <N2>
+                    <Group>9</Group>
+                    <Id>2</Id>
+                  </N2>
+                </Children>
+                <Aabb2d>
+                  <Min>-1.325 -0.075</Min>
+                  <Max>1.325 0.075</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>3.75 5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN2>
+              <FirstN3>9</FirstN3>
+              <SecondN3>
+                <DoubledSecond>0</DoubledSecond>
+                <IsDoubled>0</IsDoubled>
+                <WallWidth>0.07500000298</WallWidth>
+                <WallHeight3d>2.5</WallHeight3d>
+                <Alpha>1 1 1 1 1 1 0 0 0 0 0 0 0 0</Alpha>
+                <Vertices>
+                  <N0>2.5 2.5</N0>
+                  <N1>2.575 2.425</N1>
+                  <N2>2.425 2.575</N2>
+                  <N3>2.5 5</N3>
+                  <N4>2.575 4.925</N4>
+                  <N5>2.425 5.075</N5>
+                  <N6>2.501 4.999</N6>
+                  <N7>2.499 5.001</N7>
+                  <N8>2.501 2.499</N8>
+                  <N9>2.499 2.501</N9>
+                  <N10>2.692 4.808</N10>
+                  <N11>2.308 5.192</N11>
+                  <N12>2.692 2.308</N12>
+                  <N13>2.308 2.692</N13>
+                </Vertices>
+                <Tris>0 1 4 0 4 3 0 3 5 0 5 2</Tris>
+                <Quads>4 1 8 6 5 2 9 7 4 1 12 10 5 2 13 11</Quads>
+                <WasCreate>1</WasCreate>
+                <Color>0 0 0</Color>
+                <IsAllGood>1</IsAllGood>
+                <IsBrothers[0]>0</IsBrothers[0]>
+                <IsBrothers[1]>0</IsBrothers[1]>
+                <SelectedTime>0</SelectedTime>
+                <WallAabb1>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb1>
+                <WallAabb2>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb2>
+                <MaterialFroRooIn>1</MaterialFroRooIn>
+                <MaterialFroRooOut>1</MaterialFroRooOut>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <WallInDu>0.400000006</WallInDu>
+                <WallInDv>0.400000006</WallInDv>
+                <WallOutDu>0.8000000119</WallOutDu>
+                <WallOutDv>0.8000000119</WallOutDv>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>10</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>9</Id>
+                  </N1>
+                </Children>
+                <Aabb2d>
+                  <Min>-1.325 -0.075</Min>
+                  <Max>1.325 0.075</Max>
+                </Aabb2d>
+                <Angle>90</Angle>
+                <Scale>1 1</Scale>
+                <Pos>2.5 3.75 0</Pos>
+                <Visible>1</Visible>
+              </SecondN3>
+              <FirstN4>10</FirstN4>
+              <SecondN4>
+                <DoubledSecond>0</DoubledSecond>
+                <IsDoubled>0</IsDoubled>
+                <WallWidth>0.07500000298</WallWidth>
+                <WallHeight3d>2.5</WallHeight3d>
+                <Alpha>1 1 1 1 1 1 0 0 0 0 0 0 0 0</Alpha>
+                <Vertices>
+                  <N0>0 2.5</N0>
+                  <N1>0.075 2.425</N1>
+                  <N2>-0.075 2.575</N2>
+                  <N3>2.5 2.5</N3>
+                  <N4>2.575 2.425</N4>
+                  <N5>2.425 2.575</N5>
+                  <N6>2.501 2.499</N6>
+                  <N7>2.499 2.501</N7>
+                  <N8>0.001 2.499</N8>
+                  <N9>-0.001 2.501</N9>
+                  <N10>2.692 2.308</N10>
+                  <N11>2.308 2.692</N11>
+                  <N12>0.192 2.308</N12>
+                  <N13>-0.192 2.692</N13>
+                </Vertices>
+                <Tris>0 1 4 0 4 3 0 3 5 0 5 2</Tris>
+                <Quads>4 1 8 6 5 2 9 7 4 1 12 10 5 2 13 11</Quads>
+                <WasCreate>1</WasCreate>
+                <Color>0 0 0</Color>
+                <IsAllGood>1</IsAllGood>
+                <IsBrothers[0]>0</IsBrothers[0]>
+                <IsBrothers[1]>0</IsBrothers[1]>
+                <SelectedTime>0</SelectedTime>
+                <WallAabb1>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb1>
+                <WallAabb2>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb2>
+                <MaterialFroRooIn>1</MaterialFroRooIn>
+                <MaterialFroRooOut>1</MaterialFroRooOut>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <WallInDu>0.400000006</WallInDu>
+                <WallInDv>0.400000006</WallInDv>
+                <WallOutDu>0.8000000119</WallOutDu>
+                <WallOutDv>0.8000000119</WallOutDv>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>11</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>10</Id>
+                  </N1>
+                </Children>
+                <Aabb2d>
+                  <Min>-1.325 -0.075</Min>
+                  <Max>1.325 0.075</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>1.25 2.5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN4>
+              <FirstN5>11</FirstN5>
+              <SecondN5>
+                <DoubledSecond>0</DoubledSecond>
+                <IsDoubled>0</IsDoubled>
+                <WallWidth>0.07500000298</WallWidth>
+                <WallHeight3d>2.5</WallHeight3d>
+                <Alpha>1 1 1 1 1 1 0 0 0 0 0 0 0 0</Alpha>
+                <Vertices>
+                  <N0>0 0</N0>
+                  <N1>0.075 0.075</N1>
+                  <N2>-0.075 -0.075</N2>
+                  <N3>0 2.5</N3>
+                  <N4>0.075 2.425</N4>
+                  <N5>-0.075 2.575</N5>
+                  <N6>0.001 2.499</N6>
+                  <N7>-0.001 2.501</N7>
+                  <N8>0.001 0.001</N8>
+                  <N9>-0.001 -0.001</N9>
+                  <N10>0.192 2.308</N10>
+                  <N11>-0.192 2.692</N11>
+                  <N12>0.192 0.192</N12>
+                  <N13>-0.192 -0.192</N13>
+                </Vertices>
+                <Tris>0 1 4 0 4 3 0 3 5 0 5 2</Tris>
+                <Quads>4 1 8 6 5 2 9 7 4 1 12 10 5 2 13 11</Quads>
+                <WasCreate>1</WasCreate>
+                <Color>0 0 0</Color>
+                <IsAllGood>1</IsAllGood>
+                <IsBrothers[0]>0</IsBrothers[0]>
+                <IsBrothers[1]>0</IsBrothers[1]>
+                <SelectedTime>0</SelectedTime>
+                <WallAabb1>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb1>
+                <WallAabb2>
+                  <N0>
+                    <Min>0 0</Min>
+                    <Max>1 2.5</Max>
+                  </N0>
+                </WallAabb2>
+                <MaterialFroRooIn>1</MaterialFroRooIn>
+                <MaterialFroRooOut>1</MaterialFroRooOut>
+                <WallInMaterial>
+                  <TextureId>5</TextureId>
+                  <TexturePath>Data\Textures\wall_in.jpg</TexturePath>
+                  <Aspect>0.9827255011</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallInMaterial>
+                <WallOutMaterial>
+                  <TextureId>1</TextureId>
+                  <TexturePath>Data\Textures\wall_out.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </WallOutMaterial>
+                <WallInDu>0.400000006</WallInDu>
+                <WallInDv>0.400000006</WallInDv>
+                <WallOutDu>0.8000000119</WallOutDu>
+                <WallOutDv>0.8000000119</WallOutDv>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children>
+                  <N0>
+                    <Group>2</Group>
+                    <Id>6</Id>
+                  </N0>
+                  <N1>
+                    <Group>2</Group>
+                    <Id>11</Id>
+                  </N1>
+                </Children>
+                <Aabb2d>
+                  <Min>-1.325 -0.075</Min>
+                  <Max>1.325 0.075</Max>
+                </Aabb2d>
+                <Angle>90</Angle>
+                <Scale>1 1</Scale>
+                <Pos>0 1.25 0</Pos>
+                <Visible>1</Visible>
+              </SecondN5>
+            </Container>
+          </Walls>
+          <RoofWalls>
+            <Container/>
+          </RoofWalls>
+          <ArrayWallChildren>
+            <Container>
+              <FirstN0>2</FirstN0>
+              <SecondN0>
+                <Brothers>
+                  <N0>
+                    <N0>
+                      <Group>8</Group>
+                      <Id>0</Id>
+                    </N0>
+                  </N0>
+                </Brothers>
+                <Windows/>
+                <Doors>
+                  <N0>
+                    <ExpandTexture>1</ExpandTexture>
+                    <AutoHeightY>0</AutoHeightY>
+                    <Material>
+                      <TextureId>6</TextureId>
+                      <TexturePath>Textures\Doors\Expand\05.jpg</TexturePath>
+                      <Aspect>0.5</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </Material>
+                    <LoopMaterial>
+                      <TextureId>7</TextureId>
+                      <TexturePath>Data\Textures\doorhandle.jpg</TexturePath>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </LoopMaterial>
+                    <BoxMaterial>
+                      <TextureId>8</TextureId>
+                      <TexturePath>Data\Textures\door.jpg</TexturePath>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </BoxMaterial>
+                    <HandleMaterial>
+                      <TextureId>7</TextureId>
+                      <TexturePath>Data\Textures\doorhandle.jpg</TexturePath>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </HandleMaterial>
+                    <Inverse>0</Inverse>
+                    <OwnInverse>0</OwnInverse>
+                    <KInWall>1.391922951</KInWall>
+                    <AngleOpened>0</AngleOpened>
+                    <Opened>1</Opened>
+                    <Render3d>1</Render3d>
+                    <Round>0</Round>
+                    <Alpha>0</Alpha>
+                    <WidthX>1</WidthX>
+                    <HeightZ>2</HeightZ>
+                    <HeightY>0.1000000015</HeightY>
+                    <BeginZ>0</BeginZ>
+                    <CorobWidth>0.1000000015</CorobWidth>
+                    <RenderUpCorob>1</RenderUpCorob>
+                    <RenderDownCorob>0</RenderDownCorob>
+                    <RenderLeftCorob>1</RenderLeftCorob>
+                    <RenderRightCorob>1</RenderRightCorob>
+                    <RenderPeregorodka>1</RenderPeregorodka>
+                    <Parents>
+                      <N0>
+                        <Group>10</Group>
+                        <Id>8</Id>
+                      </N0>
+                    </Parents>
+                    <Children/>
+                    <Aabb2d>
+                      <Min>-0.5 -0.075</Min>
+                      <Max>0.5 0.075</Max>
+                    </Aabb2d>
+                    <Angle>0</Angle>
+                    <Scale>1 1</Scale>
+                    <Pos>3.892 5 0</Pos>
+                    <Visible>1</Visible>
+                  </N0>
+                </Doors>
+                <Height>2</Height>
+                <BeginH>0</BeginH>
+                <CanNormalRotate>1</CanNormalRotate>
+                <PathToModel>Models\Doors\1. Обычные двери\Дверь (800 x 2000 мм).dat</PathToModel>
+                <ExpandTexture>0</ExpandTexture>
+                <AutoHeightY>0</AutoHeightY>
+                <Material>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door1.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </Material>
+                <LoopMaterial>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door2.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </LoopMaterial>
+                <BoxMaterial>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door3.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>0.9 0.9 0.9</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </BoxMaterial>
+                <HandleMaterial>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door4.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </HandleMaterial>
+                <Inverse>0</Inverse>
+                <OwnInverse>0</OwnInverse>
+                <KInWall>1.391922951</KInWall>
+                <AngleOpened>0</AngleOpened>
+                <Opened>1</Opened>
+                <Render3d>1</Render3d>
+                <Round>0</Round>
+                <Alpha>0</Alpha>
+                <WidthX>0</WidthX>
+                <HeightZ>2</HeightZ>
+                <HeightY>0</HeightY>
+                <BeginZ>0</BeginZ>
+                <CorobWidth>0.1000000015</CorobWidth>
+                <RenderUpCorob>1</RenderUpCorob>
+                <RenderDownCorob>1</RenderDownCorob>
+                <RenderLeftCorob>1</RenderLeftCorob>
+                <RenderRightCorob>1</RenderRightCorob>
+                <RenderPeregorodka>1</RenderPeregorodka>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>8</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.5 -0.075</Min>
+                  <Max>0.5 0.075</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>3.892 5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN0>
+              <FirstN1>3</FirstN1>
+              <SecondN1>
+                <Brothers>
+                  <N0>
+                    <N0>
+                      <Group>7</Group>
+                      <Id>0</Id>
+                    </N0>
+                    <N1>
+                      <Group>7</Group>
+                      <Id>1</Id>
+                    </N1>
+                    <N2>
+                      <Group>7</Group>
+                      <Id>2</Id>
+                    </N2>
+                  </N0>
+                  <N1>
+                    <N0>
+                      <Group>7</Group>
+                      <Id>3</Id>
+                    </N0>
+                  </N1>
+                </Brothers>
+                <Windows>
+                  <N0>
+                    <ExpandTexture>0</ExpandTexture>
+                    <AutoHeightY>0</AutoHeightY>
+                    <Material>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </Material>
+                    <LoopMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </LoopMaterial>
+                    <BoxMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </BoxMaterial>
+                    <HandleMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </HandleMaterial>
+                    <Inverse>0</Inverse>
+                    <OwnInverse>0</OwnInverse>
+                    <KInWall>2.704251289</KInWall>
+                    <AngleOpened>0</AngleOpened>
+                    <Opened>0</Opened>
+                    <Render3d>1</Render3d>
+                    <Round>0</Round>
+                    <Alpha>1</Alpha>
+                    <WidthX>0.6219512224</WidthX>
+                    <HeightZ>1.399999976</HeightZ>
+                    <HeightY>0.1000000015</HeightY>
+                    <BeginZ>0.5</BeginZ>
+                    <CorobWidth>0.1000000015</CorobWidth>
+                    <RenderUpCorob>1</RenderUpCorob>
+                    <RenderDownCorob>1</RenderDownCorob>
+                    <RenderLeftCorob>1</RenderLeftCorob>
+                    <RenderRightCorob>1</RenderRightCorob>
+                    <RenderPeregorodka>1</RenderPeregorodka>
+                    <Parents>
+                      <N0>
+                        <Group>10</Group>
+                        <Id>7</Id>
+                      </N0>
+                    </Parents>
+                    <Children/>
+                    <Aabb2d>
+                      <Min>-0.311 -0.075</Min>
+                      <Max>0.311 0.075</Max>
+                    </Aabb2d>
+                    <Angle>270</Angle>
+                    <Scale>1 1</Scale>
+                    <Pos>5 2.296 0</Pos>
+                    <Visible>1</Visible>
+                  </N0>
+                  <N1>
+                    <ExpandTexture>0</ExpandTexture>
+                    <AutoHeightY>0</AutoHeightY>
+                    <Material>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </Material>
+                    <LoopMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </LoopMaterial>
+                    <BoxMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </BoxMaterial>
+                    <HandleMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </HandleMaterial>
+                    <Inverse>0</Inverse>
+                    <OwnInverse>0</OwnInverse>
+                    <KInWall>3.284739017</KInWall>
+                    <AngleOpened>0</AngleOpened>
+                    <Opened>0</Opened>
+                    <Render3d>1</Render3d>
+                    <Round>0</Round>
+                    <Alpha>1</Alpha>
+                    <WidthX>0.5390244126</WidthX>
+                    <HeightZ>1.399999976</HeightZ>
+                    <HeightY>0.1000000015</HeightY>
+                    <BeginZ>0.5</BeginZ>
+                    <CorobWidth>0.1000000015</CorobWidth>
+                    <RenderUpCorob>1</RenderUpCorob>
+                    <RenderDownCorob>1</RenderDownCorob>
+                    <RenderLeftCorob>0</RenderLeftCorob>
+                    <RenderRightCorob>1</RenderRightCorob>
+                    <RenderPeregorodka>1</RenderPeregorodka>
+                    <Parents>
+                      <N0>
+                        <Group>10</Group>
+                        <Id>7</Id>
+                      </N0>
+                    </Parents>
+                    <Children/>
+                    <Aabb2d>
+                      <Min>-0.27 -0.075</Min>
+                      <Max>0.27 0.075</Max>
+                    </Aabb2d>
+                    <Angle>270</Angle>
+                    <Scale>1 1</Scale>
+                    <Pos>5 1.715 0</Pos>
+                    <Visible>1</Visible>
+                  </N1>
+                  <N2>
+                    <ExpandTexture>0</ExpandTexture>
+                    <AutoHeightY>0</AutoHeightY>
+                    <Material>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </Material>
+                    <LoopMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </LoopMaterial>
+                    <BoxMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </BoxMaterial>
+                    <HandleMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </HandleMaterial>
+                    <Inverse>0</Inverse>
+                    <OwnInverse>0</OwnInverse>
+                    <KInWall>3.823763371</KInWall>
+                    <AngleOpened>0</AngleOpened>
+                    <Opened>0</Opened>
+                    <Render3d>1</Render3d>
+                    <Round>0</Round>
+                    <Alpha>1</Alpha>
+                    <WidthX>0.5390244126</WidthX>
+                    <HeightZ>1.399999976</HeightZ>
+                    <HeightY>0.1000000015</HeightY>
+                    <BeginZ>0.5</BeginZ>
+                    <CorobWidth>0.1000000015</CorobWidth>
+                    <RenderUpCorob>1</RenderUpCorob>
+                    <RenderDownCorob>1</RenderDownCorob>
+                    <RenderLeftCorob>0</RenderLeftCorob>
+                    <RenderRightCorob>1</RenderRightCorob>
+                    <RenderPeregorodka>1</RenderPeregorodka>
+                    <Parents>
+                      <N0>
+                        <Group>10</Group>
+                        <Id>7</Id>
+                      </N0>
+                    </Parents>
+                    <Children/>
+                    <Aabb2d>
+                      <Min>-0.27 -0.075</Min>
+                      <Max>0.27 0.075</Max>
+                    </Aabb2d>
+                    <Angle>270</Angle>
+                    <Scale>1 1</Scale>
+                    <Pos>5 1.176 0</Pos>
+                    <Visible>1</Visible>
+                  </N2>
+                  <N3>
+                    <ExpandTexture>0</ExpandTexture>
+                    <AutoHeightY>0</AutoHeightY>
+                    <Material>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </Material>
+                    <LoopMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </LoopMaterial>
+                    <BoxMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </BoxMaterial>
+                    <HandleMaterial>
+                      <TextureId>4294967295</TextureId>
+                      <TexturePath/>
+                      <Aspect>1</Aspect>
+                      <Alpha>1</Alpha>
+                      <DiffuseColor>1 1 1</DiffuseColor>
+                      <WarpMode>10497</WarpMode>
+                      <MaterialPtr>0</MaterialPtr>
+                      <MaterialColor>0 0 0</MaterialColor>
+                    </HandleMaterial>
+                    <Inverse>0</Inverse>
+                    <OwnInverse>0</OwnInverse>
+                    <KInWall>3.243275642</KInWall>
+                    <AngleOpened>0</AngleOpened>
+                    <Opened>0</Opened>
+                    <Render3d>1</Render3d>
+                    <Round>0</Round>
+                    <Alpha>1</Alpha>
+                    <WidthX>1.700000048</WidthX>
+                    <HeightZ>0.5</HeightZ>
+                    <HeightY>0.1000000015</HeightY>
+                    <BeginZ>1.899999976</BeginZ>
+                    <CorobWidth>0.1000000015</CorobWidth>
+                    <RenderUpCorob>1</RenderUpCorob>
+                    <RenderDownCorob>0</RenderDownCorob>
+                    <RenderLeftCorob>1</RenderLeftCorob>
+                    <RenderRightCorob>1</RenderRightCorob>
+                    <RenderPeregorodka>1</RenderPeregorodka>
+                    <Parents>
+                      <N0>
+                        <Group>10</Group>
+                        <Id>7</Id>
+                      </N0>
+                    </Parents>
+                    <Children/>
+                    <Aabb2d>
+                      <Min>-0.85 -0.075</Min>
+                      <Max>0.85 0.075</Max>
+                    </Aabb2d>
+                    <Angle>270</Angle>
+                    <Scale>1 1</Scale>
+                    <Pos>5 1.757 0</Pos>
+                    <Visible>1</Visible>
+                  </N3>
+                </Windows>
+                <Doors/>
+                <Height>1.900000095</Height>
+                <BeginH>2.350988562e-38</BeginH>
+                <CanNormalRotate>1</CanNormalRotate>
+                <PathToModel>Models\Windows\3. Тройное окно\Тройное с окном сверху (1700 x 1900 мм).dat</PathToModel>
+                <ExpandTexture>0</ExpandTexture>
+                <AutoHeightY>0</AutoHeightY>
+                <Material>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door1.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </Material>
+                <LoopMaterial>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door2.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </LoopMaterial>
+                <BoxMaterial>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door3.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>0.9 0.9 0.9</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </BoxMaterial>
+                <HandleMaterial>
+                  <TextureId>4294967294</TextureId>
+                  <TexturePath>Data\Textures\door4.jpg</TexturePath>
+                  <Aspect>1</Aspect>
+                  <Alpha>1</Alpha>
+                  <DiffuseColor>1 1 1</DiffuseColor>
+                  <WarpMode>10497</WarpMode>
+                  <MaterialPtr>0</MaterialPtr>
+                  <MaterialColor>0 0 0</MaterialColor>
+                </HandleMaterial>
+                <Inverse>0</Inverse>
+                <OwnInverse>0</OwnInverse>
+                <KInWall>3.243275881</KInWall>
+                <AngleOpened>0</AngleOpened>
+                <Opened>1</Opened>
+                <Render3d>1</Render3d>
+                <Round>0</Round>
+                <Alpha>0</Alpha>
+                <WidthX>0</WidthX>
+                <HeightZ>1.900000095</HeightZ>
+                <HeightY>0</HeightY>
+                <BeginZ>0.5</BeginZ>
+                <CorobWidth>0.1000000015</CorobWidth>
+                <RenderUpCorob>1</RenderUpCorob>
+                <RenderDownCorob>1</RenderDownCorob>
+                <RenderLeftCorob>1</RenderLeftCorob>
+                <RenderRightCorob>1</RenderRightCorob>
+                <RenderPeregorodka>1</RenderPeregorodka>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>7</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.85 -0.075</Min>
+                  <Max>0.85 0.075</Max>
+                </Aabb2d>
+                <Angle>270</Angle>
+                <Scale>1 1</Scale>
+                <Pos>5 1.757 0</Pos>
+                <Visible>1</Visible>
+              </SecondN1>
+            </Container>
+          </ArrayWallChildren>
+          <Objects>
+            <Container>
+              <FirstN0>1</FirstN0>
+              <SecondN0>
+                <ModelId>0</ModelId>
+                <Move3d>-0.001 0.005 0.511</Move3d>
+                <Aabb>-1.176 -0.561 -0 1.174 0.57 1.022</Aabb>
+                <Dimensions>2.351 1.131 1.022</Dimensions>
+                <ModelName>Divan_euroknigz</ModelName>
+                <Path>Models\3D\1. Гостиная\Диван еврокнижка.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-1.175 -0.566</Min>
+                  <Max>1.175 0.566</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>1.25 0.641 0</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+              </SecondN0>
+              <FirstN1>2</FirstN1>
+              <SecondN1>
+                <ModelId>1</ModelId>
+                <Move3d>0.001 0.008 1.202</Move3d>
+                <Aabb>-0.321 -0.019 0.998 0.322 0.035 1.407</Aabb>
+                <Dimensions>0.643 0.055 0.41</Dimensions>
+                <ModelName>Телевизор_насте</ModelName>
+                <Path>Models\3D\1. Гостиная\Телевизор настенный.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.322 -0.027</Min>
+                  <Max>0.322 0.027</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>1.244 2.398 0.998</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+              </SecondN1>
+              <FirstN2>3</FirstN2>
+              <SecondN2>
+                <ModelId>2</ModelId>
+                <Move3d>0 0 0.018</Move3d>
+                <Aabb>-0.9 -0.9 0.008 0.9 0.9 0.028</Aabb>
+                <Dimensions>1.8 1.8 0.02</Dimensions>
+                <ModelName>carpet_room</ModelName>
+                <Path>Models\3D\1. Гостиная\Ковер в гостиную (на пол).dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.9 -0.9</Min>
+                  <Max>0.9 0.9</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>3.725 3.641 0</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0.009999999776</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+              </SecondN2>
+              <FirstN3>4</FirstN3>
+              <SecondN3>
+                <ModelId>3</ModelId>
+                <Move3d>0 -0 0.276</Move3d>
+                <Aabb>-0.683 -0.345 0.001 0.683 0.344 0.551</Aabb>
+                <Dimensions>1.366 0.689 0.55</Dimensions>
+                <ModelName>Стол_журнальный</ModelName>
+                <Path>Models\3D\1. Гостиная\Стол.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.683 -0.345</Min>
+                  <Max>0.683 0.345</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>1.244 1.724 -0</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0.275000006</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+              </SecondN3>
+              <FirstN4>5</FirstN4>
+              <SecondN4>
+                <ModelId>4</ModelId>
+                <Move3d>0 -0.031 1.21</Move3d>
+                <Aabb>-0.887 -0.383 -0 0.887 0.321 2.42</Aabb>
+                <Dimensions>1.774 0.704 2.42</Dimensions>
+                <ModelName>Shkaf_3-doors_C</ModelName>
+                <Path>Models\3D\4. Спальня\Шкаф 2.dat</Path>
+                <Parents>
+                  <N0>
+                    <Group>17</Group>
+                    <Id>0</Id>
+                  </N0>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>-0.887 -0.352</Min>
+                  <Max>0.887 0.352</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>4.038 0.427 -0</Pos>
+                <Visible>1</Visible>
+                <Ceiling>0</Ceiling>
+                <PresetedHeight>0</PresetedHeight>
+                <MirrorX>0</MirrorX>
+                <MirrorY>0</MirrorY>
+              </SecondN4>
+            </Container>
+          </Objects>
+          <Stairs>
+            <Container/>
+          </Stairs>
+          <Holes>
+            <Container/>
+          </Holes>
+          <RoofHoles>
+            <Container/>
+          </RoofHoles>
+          <MovePoints>
+            <Container>
+              <FirstN0>6</FirstN0>
+              <SecondN0>
+                <Color>0.247 0.329 0.086</Color>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>6</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>11</Id>
+                  </N1>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>3.402823466e+38 3.402823466e+38</Min>
+                  <Max>-3.402823466e+38 -3.402823466e+38</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>0 0 0</Pos>
+                <Visible>1</Visible>
+              </SecondN0>
+              <FirstN1>7</FirstN1>
+              <SecondN1>
+                <Color>0.8 0.561 0.376</Color>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>6</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>7</Id>
+                  </N1>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>3.402823466e+38 3.402823466e+38</Min>
+                  <Max>-3.402823466e+38 -3.402823466e+38</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>5 0 0</Pos>
+                <Visible>1</Visible>
+              </SecondN1>
+              <FirstN2>8</FirstN2>
+              <SecondN2>
+                <Color>0.29 0.376 0.239</Color>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>7</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>8</Id>
+                  </N1>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>3.402823466e+38 3.402823466e+38</Min>
+                  <Max>-3.402823466e+38 -3.402823466e+38</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>5 5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN2>
+              <FirstN3>9</FirstN3>
+              <SecondN3>
+                <Color>0.408 0.086 0.459</Color>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>8</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>9</Id>
+                  </N1>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>3.402823466e+38 3.402823466e+38</Min>
+                  <Max>-3.402823466e+38 -3.402823466e+38</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>2.5 5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN3>
+              <FirstN4>10</FirstN4>
+              <SecondN4>
+                <Color>0.2 0.957 0.051</Color>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>9</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>10</Id>
+                  </N1>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>3.402823466e+38 3.402823466e+38</Min>
+                  <Max>-3.402823466e+38 -3.402823466e+38</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>2.5 2.5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN4>
+              <FirstN5>11</FirstN5>
+              <SecondN5>
+                <Color>0.224 0.129 0.063</Color>
+                <Parents>
+                  <N0>
+                    <Group>10</Group>
+                    <Id>10</Id>
+                  </N0>
+                  <N1>
+                    <Group>10</Group>
+                    <Id>11</Id>
+                  </N1>
+                </Parents>
+                <Children/>
+                <Aabb2d>
+                  <Min>3.402823466e+38 3.402823466e+38</Min>
+                  <Max>-3.402823466e+38 -3.402823466e+38</Max>
+                </Aabb2d>
+                <Angle>0</Angle>
+                <Scale>1 1</Scale>
+                <Pos>0 2.5 0</Pos>
+                <Visible>1</Visible>
+              </SecondN5>
+            </Container>
+          </MovePoints>
+          <RoofPoints>
+            <Container/>
+          </RoofPoints>
+          <Texts>
+            <Container/>
+          </Texts>
+          <Doors>
+            <Container/>
+          </Doors>
+          <Windows>
+            <Container/>
+          </Windows>
+          <Camera3d>
+            <AngleZ>-83.99998474</AngleZ>
+            <FirstUse>0</FirstUse>
+            <Matrix>0.186 0.977 0.103 0 -0.983 0.185 0.019 0 0 -0.105 0.995 0 4.3 -5.618 1.018 1</Matrix>
+            <FovY>90</FovY>
+            <Height>1.600000024</Height>
+            <Parents>
+              <N0>
+                <Group>20</Group>
+                <Id>0</Id>
+              </N0>
+            </Parents>
+            <Children/>
+            <Aabb2d>
+              <Min>-0.467 -0.467</Min>
+              <Max>0.467 0.467</Max>
+            </Aabb2d>
+            <Angle>280.708374</Angle>
+            <Scale>1 1</Scale>
+            <Pos>4.587 5.243 0</Pos>
+            <Visible>0</Visible>
+          </Camera3d>
+          <Height>2.5</Height>
+          <Columnes>
+            <Container/>
+          </Columnes>
+          <CeilingThickness>0</CeilingThickness>
+          <PointLights>
+            <Container/>
+          </PointLights>
+          <SpotLights>
+            <Container/>
+          </SpotLights>
+        </scene1>
+        <Textures2d>
+          <Container>
+            <FirstN0>0</FirstN0>
+            <SecondN0>
+              <Name>Data\Textures\white.png</Name>
+              <Group>
+                <Id>356301899038752</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN0>
+            <FirstN1>1</FirstN1>
+            <SecondN1>
+              <Name>Data\Textures\shtrih.png</Name>
+              <Group>
+                <Id>713050942930419744</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN1>
+            <FirstN2>2</FirstN2>
+            <SecondN2>
+              <Name>Data\Textures\Camera.png</Name>
+              <Group>
+                <Id>713191684713742368</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN2>
+            <FirstN3>3</FirstN3>
+            <SecondN3>
+              <Name>Data\Textures\Rule.png</Name>
+              <Group>
+                <Id>713191684712693776</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN3>
+            <FirstN4>4</FirstN4>
+            <SecondN4>
+              <Name>Data\Textures\Room.png</Name>
+              <Group>
+                <Id>725576583687962640</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN4>
+          </Container>
+        </Textures2d>
+        <Textures3d>
+          <Container>
+            <FirstN0>0</FirstN0>
+            <SecondN0>
+              <Name>Data\Textures\white.png</Name>
+              <Group>
+                <Id>396673069107642400</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN0>
+            <FirstN1>8</FirstN1>
+            <SecondN1>
+              <Name>Data\Textures\door.jpg</Name>
+              <Group>
+                <Id>960748922450477312</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN1>
+            <FirstN2>1</FirstN2>
+            <SecondN2>
+              <Name>Data\Textures\wall_out.jpg</Name>
+              <Group>
+                <Id>713050942995432448</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN2>
+            <FirstN3>2</FirstN3>
+            <SecondN3>
+              <Name>Data\Textures\plinth_texture.jpg</Name>
+              <Group>
+                <Id>713050942945100032</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN3>
+            <FirstN4>3</FirstN4>
+            <SecondN4>
+              <Name>Data\Textures\ceiling.jpg</Name>
+              <Group>
+                <Id>724309942013526272</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN4>
+            <FirstN5>4</FirstN5>
+            <SecondN5>
+              <Name>Data\Textures\floor.jpg</Name>
+              <Group>
+                <Id>724309942030303744</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN5>
+            <FirstN6>5</FirstN6>
+            <SecondN6>
+              <Name>Data\Textures\wall_in.jpg</Name>
+              <Group>
+                <Id>724309942030303744</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN6>
+            <FirstN7>6</FirstN7>
+            <SecondN7>
+              <Name>Textures\Doors\Expand\05.jpg</Name>
+              <Group>
+                <Id>724309942063858176</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN7>
+            <FirstN8>7</FirstN8>
+            <SecondN8>
+              <Name>Data\Textures\doorhandle.jpg</Name>
+              <Group>
+                <Id>960748922442088576</Id>
+              </Group>
+              <Local>1</Local>
+            </SecondN8>
+          </Container>
+        </Textures3d>
+        <Models>
+          <Container>
+            <FirstN0>0</FirstN0>
+            <SecondN0>
+              <Local>1</Local>
+              <Changed>0</Changed>
+              <Name>Models\3D\1. Гостиная\Диван еврокнижка.dat</Name>
+            </SecondN0>
+            <FirstN1>1</FirstN1>
+            <SecondN1>
+              <Local>1</Local>
+              <Changed>0</Changed>
+              <Name>Models\3D\1. Гостиная\Телевизор настенный.dat</Name>
+            </SecondN1>
+            <FirstN2>2</FirstN2>
+            <SecondN2>
+              <Local>1</Local>
+              <Changed>0</Changed>
+              <Name>Models\3D\1. Гостиная\Ковер в гостиную (на пол).dat</Name>
+            </SecondN2>
+            <FirstN3>3</FirstN3>
+            <SecondN3>
+              <Local>1</Local>
+              <Changed>0</Changed>
+              <Name>Models\3D\1. Гостиная\Стол.dat</Name>
+            </SecondN3>
+            <FirstN4>4</FirstN4>
+            <SecondN4>
+              <Local>1</Local>
+              <Changed>0</Changed>
+              <Name>Models\3D\4. Спальня\Шкаф 2.dat</Name>
+            </SecondN4>
+          </Container>
+        </Models>
+        <DirectionalLight>
+          <Ambient>0.249 0.249 0.249 1</Ambient>
+          <Diffuse>1 1 1 1</Diffuse>
+          <Specular>1 1 1 1</Specular>
+          <ConstantAttenuation>1</ConstantAttenuation>
+          <LinearAttenuation>0</LinearAttenuation>
+          <QuadricAttenuation>0</QuadricAttenuation>
+          <IsLight>1</IsLight>
+          <Dx>0</Dx>
+          <Dy>0</Dy>
+          <Dz>0</Dz>
+          <Parents/>
+          <Children/>
+          <Aabb2d>
+            <Min>3.402823466e+38 3.402823466e+38</Min>
+            <Max>-3.402823466e+38 -3.402823466e+38</Max>
+          </Aabb2d>
+          <Angle>0</Angle>
+          <Scale>1 1</Scale>
+          <Pos>0.564 0.805 -0.688</Pos>
+          <Visible>1</Visible>
+        </DirectionalLight>
+        <CeilingThicknessAllLevels>0.25</CeilingThicknessAllLevels>
+        <TextureWallOut>1</TextureWallOut>
+        <TextureShtrih2d>1</TextureShtrih2d>
+        <CurrentGridDimms>1</CurrentGridDimms>
+      </Scene>
+    </History>
+    <CurrentGridPixels>34.29614639</CurrentGridPixels>
+    <GridCenterX>485.8111877</GridCenterX>
+    <GridCenterY>147.7511292</GridCenterY>
+    <TextureWhite3d>0</TextureWhite3d>
+    <ShowAllLevels>1</ShowAllLevels>
+    <Params>
+      <GlobalLightColorX>255</GlobalLightColorX>
+      <GlobalLightColorY>255</GlobalLightColorY>
+      <GlobalLightColorZ>255</GlobalLightColorZ>
+      <GlobalLightAngleX>235</GlobalLightAngleX>
+      <GlobalLightAngleY>235</GlobalLightAngleY>
+      <GlobalLightStrength>1.200000048</GlobalLightStrength>
+      <GlobalLightAmbient>0.7508000135</GlobalLightAmbient>
+      <GlobalUseUnderLayer>1</GlobalUseUnderLayer>
+    </Params>
+    <Camera2d>
+      <Distance>24.3316288</Distance>
+      <DistanceIn>3.5</DistanceIn>
+      <TranslateVec>-3.563 -1.086 -0</TranslateVec>
+      <AngleOx>0</AngleOx>
+      <AngleOy>0</AngleOy>
+    </Camera2d>
+    <Camera3d>
+      <Distance>7.5</Distance>
+      <DistanceIn>3.5</DistanceIn>
+      <TranslateVec>-0.808 0.554 0</TranslateVec>
+      <AngleOx>-35.19998932</AngleOx>
+      <AngleOy>196.2000122</AngleOy>
+    </Camera3d>
+    <Rule>
+      <Points/>
+      <Parents/>
+      <Children/>
+      <Aabb2d>
+        <Min>-0.094 -0.094</Min>
+        <Max>0.094 0.094</Max>
+      </Aabb2d>
+      <Angle>0</Angle>
+      <Scale>1 1</Scale>
+      <Pos>0 0 0</Pos>
+      <Visible>0</Visible>
+    </Rule>
+  </Building>
+</Head>
